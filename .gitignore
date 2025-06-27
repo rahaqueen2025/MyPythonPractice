@@ -1,0 +1,19 @@
+# 🔐 Ignore password file
+github pass.txt
+
+# 🧠 Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 📁 Ignore VS Code settings
+.vscode/
+
+# 📦 Ignore virtual environments
+venv/
+env/
+*.env
+
+# 💾 Ignore OS generated files
+.DS_Store
+Thumbs.db
